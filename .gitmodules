@@ -1,0 +1,3 @@
+[submodule "tools/luvi-builder"]
+	path = tools/luvi-builder
+	url = https://github.com/raphaelcohn/luvi-builder
